@@ -1,11 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,900);
-
 *, *:before, *:after {
   box-sizing: border-box;
 }
 
 body {
-  background: linear-gradient(to bottom, rgba(140,122,122,1) 0%, rgba(175,135,124,1) 65%, rgba(175,135,124,1) 100%) fixed;
+  background: linear-gradient(to bottom, rgb(140, 122, 122) 0%, rgb(175, 135, 124) 65%, rgb(175, 135, 124) 100%) fixed;
   background-size: cover;
   font: 14px/20px "Lato", Arial, sans-serif;
   color: #9E9E9E;
@@ -17,3 +16,5 @@ body {
   width: 600px;
   text-align: center;
 }
+
+/*# sourceMappingURL=app.component.css.map */
