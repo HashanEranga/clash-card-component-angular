@@ -1,3 +1,4 @@
-<div class="slide-container">
-  <clash-card/>
+<div class="slide-container" *ngFor="let character of CHARACTERS">
+    <clash-card [character]="character"/>
 </div>
+

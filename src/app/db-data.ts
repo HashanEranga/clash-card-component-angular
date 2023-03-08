@@ -10,7 +10,7 @@ export const CHARACTERS : any = [
     cost: 150
   },
   {
-    id:1,
+    id:2,
     name: "Archer",
     imgUrl: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/archer.png",
     description: "The Archer is a female warrior with sharp eyes. She wears a short, light green dress, a hooded cape, a leather belt and an attached small pouch.",
@@ -20,7 +20,7 @@ export const CHARACTERS : any = [
     cost: 300
   },
   {
-    id:1,
+    id:3,
     name: "Giant",
     imgUrl: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/giant.png",
     description: "Slow, steady and powerful, Giants are massive warriors that soak up huge amounts of damage. Show them a turret or cannon and you'll see their fury unleashed!",
@@ -30,7 +30,7 @@ export const CHARACTERS : any = [
     cost: 2250
   },
   {
-    id:1,
+    id:4,
     name: "Goblin",
     imgUrl: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/goblin.png",
     description: " These pesky little creatures only have eyes for one thing: LOOT! They are faster than a Spring Trap, and their hunger for resources is limitless.",
@@ -40,7 +40,7 @@ export const CHARACTERS : any = [
     cost: 100
   },
   {
-    id:1,
+    id:5,
     name: "Wizard",
     imgUrl: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/wizard.png",
     description: "The Wizard is a terrifying presence on the battlefield. Pair him up with some of his fellows and cast concentrated blasts of destruction on anything, land or sky!",
